@@ -26,8 +26,8 @@ module.exports = {
   output: {
     path: __dirname + '/dist',
     publicPath: '/',
-    filename: 'bundle.js',
-    library: 'Delimiter',
+    filename: 'paywall-delimiter.js',
+    library: 'PaywallDelimiter',
     libraryTarget: 'umd'
   }
 };

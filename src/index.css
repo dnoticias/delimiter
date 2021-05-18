@@ -6,7 +6,7 @@
 
 .ce-delimiter:before {
     display: inline-block;
-    content: "***";
+    content: "Conte\00fa do Reservado";
     font-size: 30px;
     line-height: 65px;
     height: 30px;

@@ -1,25 +1,22 @@
 {
-  "name": "@editorjs/delimiter",
-  "version": "1.2.0",
+  "name": "@dnoticias/paywall-delimiter",
+  "version": "0.0.1",
   "keywords": [
     "codex editor",
-    "delimiter",
+    "paywall-delimiter",
     "tool",
     "editor.js",
     "editorjs"
   ],
-  "description": "Delimiter Tool for Editor.js",
+  "description": "Paywall Delimiter Tool for Editor.js",
   "license": "MIT",
-  "repository": "https://github.com/editor-js/delimiter",
+  "repository": "https://github.com/dnoticias/paywall-delimiter",
   "main": "./dist/bundle.js",
   "scripts": {
     "build": "webpack --mode production",
     "build:dev": "webpack --mode development --watch"
   },
-  "author": {
-    "name": "CodeX Team",
-    "email": "team@ifmo.su"
-  },
+  "author": {},
   "devDependencies": {
     "@babel/core": "^7.3.4",
     "@babel/preset-env": "^7.3.4",
